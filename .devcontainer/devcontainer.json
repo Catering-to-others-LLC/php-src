@@ -1,0 +1,5 @@
+gitCatering-to-others-LLC/php-src.git{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }"ghcr.io/devcontainers-contrib/features/ffmpeg-homebrew:1": {}
+}
